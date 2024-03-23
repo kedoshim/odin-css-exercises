@@ -1,0 +1,20 @@
+.rosinha{
+    background-color: pink;
+}
+
+.premium{
+    font-size: 24px;
+    font-family: fantasy;
+}
+
+#unico{
+    color: blue;
+    font-size: 36px;
+}
+
+#inigualavel{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
